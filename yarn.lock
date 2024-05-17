@@ -8714,24 +8714,23 @@ __metadata:
   linkType: hard
 
 "appium-windows-driver@npm:^2.12.0":
-  version: 2.12.18
-  resolution: "appium-windows-driver@npm:2.12.18"
+  version: 2.12.23
+  resolution: "appium-windows-driver@npm:2.12.23"
   dependencies:
     asyncbox: ^3.0.0
     bluebird: ^3.5.1
-    es6-error: ^4.1.1
     fancy-log: ^2.0.0
-    koffi: ^2.5.0
+    koffi: ^2.8.1
     lodash: ^4.6.1
-    portscanner: 2.2.0
+    portscanner: ^2.2.0
     source-map-support: ^0.x
     teen_process: ^2.0.1
   peerDependencies:
-    appium: ^2.0.0
+    appium: ^2.4.0
   dependenciesMeta:
     koffi:
       optional: true
-  checksum: 0f53bd32e5c59dd9cfad3027b787899514b71499efc63915117c913de5d6fbb515cda104939b8b3860b753e38cc5c69f7e76568ef8bb9c6fb94401c8ef7d7413
+  checksum: 2efd95ef18346fc5388278dad6e79f381a07a15ae68ecaf9574532747137cef704851b44f12007baea40e6f0c1d5466ab4904eff8147b38a35f0967b6d506b6e
   languageName: node
   linkType: hard
 
@@ -11756,7 +11755,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es6-error@npm:4.1.1, es6-error@npm:^4.1.1":
+"es6-error@npm:4.1.1":
   version: 4.1.1
   resolution: "es6-error@npm:4.1.1"
   checksum: ae41332a51ec1323da6bbc5d75b7803ccdeddfae17c41b6166ebbafc8e8beb7a7b80b884b7fab1cc80df485860ac3c59d78605e860bb4f8cd816b3d6ade0d010
@@ -15464,10 +15463,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"koffi@npm:^2.5.0":
-  version: 2.5.19
-  resolution: "koffi@npm:2.5.19"
-  checksum: 4ad279582ba9b42f08ead4af907db3aaefa6071eb3b57302588091604347b43c4142584f7f9db2384759b47cf82cf5f3f97488488d2823ba8fce6f7efdedcbbe
+"koffi@npm:^2.8.1":
+  version: 2.8.9
+  resolution: "koffi@npm:2.8.9"
+  checksum: 4ba62756279de99ea57e67eeca4013c5ae921246590eeed304fcd5301bed2bc21e8712d5682026f567975206bf4f521c6bd1f0918e941659e5b720a7b7bf36c4
   languageName: node
   linkType: hard
 
